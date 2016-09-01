@@ -1,2 +1,3 @@
-# git-101
+# Git Class 101
+
 Learn Git from Basic
